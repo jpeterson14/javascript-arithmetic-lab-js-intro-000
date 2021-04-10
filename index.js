@@ -3,7 +3,7 @@ add = (a,b) => {
 }
 
 subtract = (a,b) => {
-  return b - a
+  return a - b
 }
 
 multiply = (a,b) => {
@@ -11,5 +11,5 @@ multiply = (a,b) => {
 }
 
 divide = () => {
-  return a/b
+  return a / b
 }
